@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/josecoyt/Desktop/University/Current/Operating Systems/projects/project 1/code/output/cpu_scheduling'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003614, symSize: 0xEC }
+  - { offset: 0x4D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003614, symSize: 0xEC }
+  - { offset: 0x9F, size: 0x8, addend: 0x0, symName: _RR, symObjAddr: 0xEC, symBinAddr: 0x100003700, symSize: 0x2F4 }
+  - { offset: 0x1BF, size: 0x8, addend: 0x0, symName: _FCFS, symObjAddr: 0x3E0, symBinAddr: 0x1000039F4, symSize: 0x164 }
+  - { offset: 0x253, size: 0x8, addend: 0x0, symName: _SJF, symObjAddr: 0x544, symBinAddr: 0x100003B58, symSize: 0x208 }
+  - { offset: 0x31F, size: 0x8, addend: 0x0, symName: _bubbleSortWithIds, symObjAddr: 0x74C, symBinAddr: 0x100003D60, symSize: 0x164 }
+...
